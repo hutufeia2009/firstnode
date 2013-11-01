@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bceb9448-2a4c-4281-b01f-f396435a484b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stuwebfk/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\webStormWork\firstnode\README.md" afterPath="$PROJECT_DIR$/stuwebfk/README.md" />
-    </list>
+    <list default="true" id="bceb9448-2a4c-4281-b01f-f396435a484b" name="Default" comment="" />
     <ignored path="firstnode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
