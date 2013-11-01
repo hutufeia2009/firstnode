@@ -1,0 +1,21 @@
+{
+  "name": "firstnode",
+  "version": "0.0.1",
+  "description": "My first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutufeia2009/firstnode"
+  },
+  "keywords": [
+    "firstnode"
+  ],
+  "author": "winky",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hutufeia2009/firstnode/issues"
+  }
+}
