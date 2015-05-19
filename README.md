@@ -13,3 +13,5 @@ firstnode
 
 禁用Fast forward 模式合并
 
+修复一个bug
+
